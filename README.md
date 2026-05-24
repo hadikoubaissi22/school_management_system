@@ -19,7 +19,7 @@ This School Management Software is built using Laravel, providing a comprehensiv
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/school-management.git
+    git clone https://github.com/hadikoubaissi22/school-management.git
     ```
 
 2. **Navigate into the project directory**:
